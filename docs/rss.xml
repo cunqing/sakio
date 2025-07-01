@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>教程资源备份</title><link>https://cunqing.github.io/sakio</link><description>各种资源分享！穷哥好基友救星</description><copyright>教程资源备份</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://cunqing.github.io/sakio</link></image><lastBuildDate>Tue, 01 Jul 2025 08:42:34 +0000</lastBuildDate><managingEditor>教程资源备份</managingEditor><ttl>60</ttl><webMaster>教程资源备份</webMaster><item><title>谷歌用作Chatgpt账号使用说明</title><link>https://cunqing.github.io/sakio/post/gu-ge-yong-zuo-Chatgpt-zhang-hao-shi-yong-shuo-ming.html</link><description>**1.推荐优先使用电脑网页登录！**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>教程资源备份</title><link>https://cunqing.github.io/sakio</link><description>各种资源分享！穷哥好基友救星</description><copyright>教程资源备份</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://cunqing.github.io/sakio</link></image><lastBuildDate>Tue, 01 Jul 2025 08:51:35 +0000</lastBuildDate><managingEditor>教程资源备份</managingEditor><ttl>60</ttl><webMaster>教程资源备份</webMaster><item><title>谷歌邮箱Gmail申诉流程,以及账号异常原因分析,类似问题请及时纠正</title><link>https://cunqing.github.io/sakio/post/gu-ge-you-xiang-Gmail-shen-su-liu-cheng-%2C-yi-ji-zhang-hao-yi-chang-yuan-yin-fen-xi-%2C-lei-si-wen-ti-qing-ji-shi-jiu-zheng.html</link><description>**近期很多小伙伴通过朋友介绍找来,给我讲自己的谷歌邮箱账号突然间被禁止登录了,有的朋友在里面有很重要的游戏装备,有的谷歌账号挺有纪念意义,反正总之就是很重要, 不想失去.**
+
+**经过简单的了解这些小伙伴们的谷歌邮箱账号基本上都有如下几个共同特征:**
+
+**1.谷歌邮箱账号到手时间比较短,也就是说这个谷歌邮箱账号在手里一般没超过2个月!**
+
+**2.谷歌邮箱账号出现此问题的基本上都是游戏玩家(其它不是游戏用户被封的也有,只不过占的比例比较小 忽略不计吧! ),游戏玩家还有个共同的特点,那就是不用网页登录自己的邮箱,这个非常要命!**
+
+**3.这种被封的谷歌邮箱除了活跃度比较低以外,它们的IP也多多少少的有点问题,DNS污染严重.有些东西大家尽可能不要用免费的!**
+
+**4.所有的账号尽量不要外借,因为别人的登录环境我们是控制不了的!**
+
+**总结: 简单的交谈后 还是我经常叮嘱自己客户的那几句话: 一定要用网页经常登录着点自己的谷歌邮箱账号! QQ邮箱和网易邮箱安卓APP客户端临时使用应急是可以的,但是一定别长期使用!**
+
+**下面我们看下谷歌邮箱账号的申诉流程,此流程并不能百分之百的解封每个被封的账号,只是有这么渠道, 需要注意的是这个仅对因违反谷歌邮箱使用政策被封的有效果,对遗忘密码的是不起作用的!**
+
+**申诉流程: 登录页面也是申诉页面, 用浏览器进去之后 填入自己谷歌邮箱的账号还有密码, 如果各位的邮箱有问题,会看到类似如下提示:**
+
+![Image](https://github.com/user-attachments/assets/fd934ee9-d521-40e3-88e0-1b888915223b)
+
+**_因为页面是中文,系统直译出来部分词汇略有违和!_**
+![Image](https://github.com/user-attachments/assets/bab658c1-ac39-405f-b584-5432dc6267dc)
+**第二步的时候(上图)需要大家输入一个自己目前正在使用的邮箱,目的是方便谷歌那边把反馈消息发送过来 通知您申诉结果和进度.**
+
+![Image](https://github.com/user-attachments/assets/20a8edfb-18ce-4be8-b0cf-b89028d4d81e)
+**第三步也很简单,需要输入一个申诉的理由,我一般会写中文: “您好,本谷歌邮箱正常使用中,请帮助我恢复谷歌邮箱的正常使用”**
+
+**这个地方可以自由发挥,后台应该不是人工核验,只要是写出这是个误会的大致意思就好了! 然后点击提交 一般1至3个工作日 对方会给回复邮件,个别情况会有15天回复的,我只遇到过一次!**。</description><guid isPermaLink="true">https://cunqing.github.io/sakio/post/gu-ge-you-xiang-Gmail-shen-su-liu-cheng-%2C-yi-ji-zhang-hao-yi-chang-yuan-yin-fen-xi-%2C-lei-si-wen-ti-qing-ji-shi-jiu-zheng.html</guid><pubDate>Tue, 01 Jul 2025 08:50:57 +0000</pubDate></item><item><title>谷歌用作Chatgpt账号使用说明</title><link>https://cunqing.github.io/sakio/post/gu-ge-yong-zuo-Chatgpt-zhang-hao-shi-yong-shuo-ming.html</link><description>**1.推荐优先使用电脑网页登录！**
 
 **网址:https://chat.openai.com/chat**
 
